@@ -18,9 +18,4 @@ Implement conditional VAE for video prediction
 Implement AI player with DQN and DDPG
 # HW7
 Implement DDPM to generate synthetic images according to multi-label conditions
-# Final
-**Topic**  
-Neural Supersampling for Real-time Rendering
 
-**Introduction**  
-Renderning low-resolution game scenes to high-resolution ones in real-time 
