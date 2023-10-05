@@ -1,5 +1,5 @@
 # DeepLearningParctice
-7 homeworks and final project of DLP in 111-2
+7 homeworks of DLP in 111-2
 
 # HW1
 Implement a simple neural network with 2 hidden layer using only numpy
