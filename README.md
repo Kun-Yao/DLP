@@ -19,6 +19,9 @@ Mean score of each game, total 200,000 games
 ![image](https://github.com/Kun-Yao/Deep_Learning_Parctice/blob/main/DLP_LAB2_311551170_%E6%9E%97%E7%90%A8%E5%A0%AF/result.png)
 # HW3
 Implement EEGNET, DeepConvNet with BCI competition dataset to classify signals
+
+signals  
+![image](https://github.com/Kun-Yao/Deep_Learning_Parctice/blob/main/DLP_LAB3_311551170_%E6%9E%97%E7%90%A8%E5%A0%AF/signal.png)
 # HW4
 Implement custom dataloader and data preprocessing.
 
