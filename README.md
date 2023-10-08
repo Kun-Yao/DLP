@@ -2,7 +2,8 @@
 7 homeworks of DLP in 111-2
 
 # HW1
-Implement a simple neural network with 2 hidden layer using only numpy
+Implement a simple neural network with 2 hidden layer using only numpy  
+![image](https://github.com/Kun-Yao/Deep_Learning_Parctice/blob/main/DLP_LAB1_311551170_%E6%9E%97%E7%90%A8%E5%A0%AF/model.png)
 # HW2
 Implement 2048 player with TD algorithm
 # HW3
